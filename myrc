@@ -1,0 +1,9 @@
+USER=shanu/newu
+PATH=/home/shanu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/shanu/Downloads/pycharm-community-2019.1.3/bin:/snap/bin:newp
+HOME=/home/shanu
+HOSTNAME=HP
+PS1=shanu@h
+HISTSIZE=10
+mp4=vlc
+txt=subl
+mp3=vlc

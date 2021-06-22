@@ -1,0 +1,78 @@
+10000000_729276004155414_919162466332823922_n.mp4
+2019201014
+2019201014 (1).zip
+2019201014 (2).zip
+2019201014 (3).zip
+2019201014_APS_ASSIGNMENT.zip
+2019201014_assignment1 (1)
+2019201014_assignment1 (1).zip
+2019201014_assignment1.zip
+2019201014_Shanu Gandhi.pdf
+2019201014.zip
+aadhar attested.pdf
+Advanced.Programming.in.the.UNIX.Environ.pdf
+APS Assignment-1.pdf
+APS_Assignment_2 (1).pdf
+APS Assignment 3 (1).pdf
+APS Assignment 3.pdf
+APS Assignment-4.pdf
+Aps Assignments Evaluation Slots - Sheet-1.pdf
+aps project
+Aps Projects.zip
+Assignment 2 (1).pdf
+Assignment 2.pdf
+a.txt
+AVL tree animation.ppt
+bala
+beej_network.pdf
+Bekhayali - Kabir Singh (2019).mp3
+Caste-converted.pdf
+Cheatsheets (1).zip
+Cheatsheets.zip
+Chhichhore_2019_Hindi_Full_Movie-(Filmy-Zilla.co).mp4
+Client-Server_Programming_with_TCP_IP_So.pdf
+code.txt
+compressed
+ddl.sql
+exper.doc
+Fermat_s_Little_Theorom.pdf
+filegen.sh
+Gate sc attested.pdf
+hdfc passbook attested.pdf
+hyd trip
+image2.bmp
+image.jpg
+Inglourious.Basterds.2009.720p.Farda.DL.mkv
+inglourious-basterds_english-1173950
+inglourious-basterds_english-1173950.zip
+Interships.pdf
+Lecture2_MySQL (1).odp
+Lecture2_MySQL.odp
+OLA.pdf
+Online Application Process_Intern.pdf
+OS-PG-Assignment-1 (1).pdf
+OS-PG-Assignment-1.pdf
+PG1-OS-Mini Task - Evaluation.pdf
+PG-1-OS-Mini Tasks-1.pdf
+ppt.odf.odp
+pthreads-converted.pdf
+resume
+Seating - Sheet1.pdf
+servermt_2_sc(user input fn).cpp
+shellpipe.cpp
+Shell_Script.pdf
+shellWithParser.tar.gz
+shpipe_v2.txt
+socket prog
+Software Engineering Intern LinkedIn.pdf
+stl
+stringmatchingalgorithm-150615142625-lva1-app6891-converted.pptx
+threads
+tor-browser-linux64-8.5.5_en-US.tar.xz
+WhatsApp Image 2019-08-18 at 12.57.34 PM.jpeg
+WhatsApp Image 2019-09-18 at 1.40.34 AM.jpeg
+white noise sleep study.mp3
+total 1339144
+-rw-rw-r-- 1 ANUBHAV ANUBHAV      97925851 Sep 26 13:44 10000000_729276004155414_919162466332823922_n.mp4
+drwxr-xr-x 2 ANUBHAV ANUBHAV      4096 Aug 25 14:52 2019201014
+-
